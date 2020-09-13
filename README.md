@@ -9,6 +9,8 @@
 [ ![discord-shield][] ][discord-invite]
 [ ![lisence-shield][] ][lisence]
 
+<img align="right" src="https://cdn.discordapp.com/attachments/617625850111852545/754596397420118056/X.png" height="200" width="200">
+
 # RexHook (webhook-notifier)
 Rexhook is an webhook notifier made by [duqaqon](https://github.com/duqaqon) especially made to prevent raids from Ro-Aviation.
 The purpose of this project is to prevent the Anti-rubeus raids. This project can also be used outside Ro-Aviation.
@@ -22,7 +24,6 @@ Pull requests are welcome.
 For major changes, please contact me via the discord server located at the top of this **README** file
 
 Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5)
-
 **Tutorial made by the JDA group (Java Discord API), [Credits](https://github.com/DV8FromTheWorld)**
 
 ## Lisence
