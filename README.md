@@ -10,4 +10,17 @@
 [ ![lisence-shield][] ][lisence]
 
 # RexHook (webhook-notifier)
-Rexhook is an webhook notifier made by [duqaqon](https://github.com/duqaqon) especially made to prevent raids from ro-aviation
+Rexhook is an webhook notifier made by [duqaqon](https://github.com/duqaqon) especially made to prevent raids from Ro-Aviation.
+The purpose of this project is to prevent the Anti-rubeus raids. This project can also be used outside Ro-Aviation.
+
+## Hosting
+You will need to download the source code of this project to be able to host it on your own. 
+Additional you can add the bot on your server. (Link coming soon)
+
+## Contributing
+Pull requests are welcome. 
+For major changes, please contact me via the discord server located at the top of this **README** file
+
+## Lisence
+You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) lisence.
+If you remove any credits in the project/source code, I will take legal actions.
