@@ -7,6 +7,6 @@
 
 
 [ ![discord-shield][] ][discord-invite]
-[ ! [lisence-shield][[lisence]
+[ ![lisence-shield][] ][lisence]
 
 # webhook-notifier.
