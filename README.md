@@ -9,7 +9,5 @@
 [ ![discord-shield][] ][discord-invite]
 [ ![lisence-shield][] ][lisence]
 
-# JDA (Java Discord API)
-
-JDA strives to provide a clean and full wrapping of the Discord REST api and its Websocket-Events for Java.
-This library is a helpful tool that provides the functionality to create a discord bot in java
+# RexHook (webhook-notifier)
+Rexhook is an webhook notifier made by [duqaqon](https://github.com/duqaqon) especially made to prevent raids from ro-aviation
