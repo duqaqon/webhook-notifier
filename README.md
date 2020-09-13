@@ -21,6 +21,11 @@ Additional you can add the bot on your server. (Link coming soon)
 Pull requests are welcome. 
 For major changes, please contact me via the discord server located at the top of this **README** file
 
+Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5)
+**Tutorial made by the JDA group (Java Discord API), [Credits](https://github.com/DV8FromTheWorld)**
+
 ## Lisence
 You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) lisence.
 If you remove any credits in the project/source code, I will take legal actions.
+
+``©2020 duqaqon. All rights reserved``
